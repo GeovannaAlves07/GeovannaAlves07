@@ -55,5 +55,3 @@ Atualmente estou desenvolvendo e estudando projetos acadêmicos e pessoais, incl
 
 ---
 
-## ⚡ Curiosidade
-Sempre estou explorando novas formas de resolver problemas e transformar 
