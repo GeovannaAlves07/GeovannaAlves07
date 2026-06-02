@@ -6,6 +6,11 @@ Sou estudante do curso técnico de Desenvolvimento de Sistemas do SESI-SENAI de 
 Tenho um perfil voltado para aprendizado contínuo, resolução de problemas e desenvolvimento de projetos.
 
 ---
+## 📌 Objetivos
+- Evoluir como desenvolvedor back-end e full-stack  
+- Criar projetos próprios para portfólio  
+- Aprimorar lógica de programação e arquitetura de software  
+- Ganhar experiência prática com projetos reais  
 
 ## 💻 Tecnologias que estou aprendendo
 - 🐍 Python
@@ -32,13 +37,6 @@ Tenho um perfil voltado para aprendizado contínuo, resolução de problemas e d
 - SESI-SENAI Cruzeiro/Lorena  
 
 ---
-
-## 📌 Objetivos
-- Evoluir como desenvolvedor back-end e full-stack  
-- Criar projetos próprios para portfólio  
-- Aprimorar lógica de programação e arquitetura de software  
-- Ganhar experiência prática com projetos reais  
-
 ---
 
 ## 📂 Projetos
